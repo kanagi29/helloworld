@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Pesan Aja</string>
+    <string name="jumlah_pesanan">Jumlah Pesanan</string>
+    <string name="plus">+</string>
+    <string name="nol">0</string>
+    <string name="minus">-</string>
+    <string name="pesan">Pesan</string>
+    <string name="makanan">Makanan</string>
+    <string name="pedas">Pedas</string>
+    <string name="name">Nama</string>
+</resources>
