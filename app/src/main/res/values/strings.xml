@@ -8,4 +8,17 @@
     <string name="makanan">Food</string>
     <string name="pedas">Spicy</string>
     <string name="name">Name</string>
+    <string name="bakso_match">Bakso Match</string>
+    <string name="bakso_geledek">Bakso Geledek</string>
+    <string name="baksomatch">baksomatch</string>
+    <string name="bakso_halilintar">Bakso Halilintar</string>
+    <string name="_0">0</string>
+    <string name="_0b">0</string>
+    <string name="_3_poin">+3 poin</string>
+    <string name="_2_poin">+2 poin</string>
+    <string name="_1_poin">+1 poin</string>
+    <string name="_3_poinb">+3 poin</string>
+    <string name="_2_poinb">+2 poin</string>
+    <string name="_1_poinb">+1 poin</string>
+    <string name="reset">Reset</string>
 </resources>
