@@ -128,7 +128,8 @@
         android:text="@string/_2_poin"
         app:layout_constraintEnd_toStartOf="@+id/guideline2"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/button3a" />
+        app:layout_constraintTop_toBottomOf="@+id/button3a"
+        android:onClick="tambah2poina"/>
 
     <Button
         android:id="@+id/button1a"
@@ -142,7 +143,8 @@
         android:text="@string/_1_poin"
         app:layout_constraintEnd_toStartOf="@+id/guideline2"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/button2a" />
+        app:layout_constraintTop_toBottomOf="@+id/button2a"
+        android:onClick="tambang1poina"/>
 
     <Button
         android:id="@+id/button3b"
@@ -155,7 +157,8 @@
         android:text="@string/_3_poinb"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="@+id/guideline2"
-        app:layout_constraintTop_toTopOf="@+id/button3a" />
+        app:layout_constraintTop_toTopOf="@+id/button3a"
+        android:onClick="tambah3poinb"/>
 
     <Button
         android:id="@+id/button2b"
@@ -169,7 +172,8 @@
         android:text="@string/_2_poinb"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="@+id/guideline2"
-        app:layout_constraintTop_toBottomOf="@+id/button3b" />
+        app:layout_constraintTop_toBottomOf="@+id/button3b"
+        android:onClick="tambah2poinb"/>
 
     <Button
         android:id="@+id/button1b"
@@ -183,7 +187,8 @@
         android:text="@string/_1_poinb"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="@+id/guideline2"
-        app:layout_constraintTop_toBottomOf="@+id/button2b" />
+        app:layout_constraintTop_toBottomOf="@+id/button2b"
+        android:onClick="tambah1poinb"/>
 
     <Button
         android:id="@+id/reset"
